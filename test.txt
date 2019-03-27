@@ -1,0 +1,12 @@
+std::cout << LOLLLLLL;
+Line 2
+
+Line 4(
+[{}
+]
+Line 7)
+
+Line 9(
+)
+
+Line 12
